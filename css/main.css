@@ -18,3 +18,9 @@
 li {
   list-style: alpha;
 }
+
+.btn {
+  padding: 2rem;
+  width: 20%;
+  margin-top: 5rem;
+}
