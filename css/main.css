@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 1.6rem;
+  color: var(--primary-color);
+}
+
+.rules {
+  font-weight: 600;
+  font-size: 1.8rem;
+}
+
+li {
+  list-style: alpha;
+}
+
+.btn {
+  padding: 2rem;
+  width: 20%;
+  margin-top: 5rem;
+}

@@ -1,0 +1,44 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: var(--primary-color);
+  font-size: 1.6rem;
+}
+.answer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.btn {
+  width: 40%;
+}
+
+.question-wrapper {
+  margin-top: 2rem;
+}
+
+.questions {
+  color: var(--primary-color);
+}
+
+.question {
+  font-weight: 700;
+}
+
+.card-btn {
+  text-align: center;
+}
+
+.add-to-cart {
+  margin-top: 2rem;
+  width: 100%;
+}
